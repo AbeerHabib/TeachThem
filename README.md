@@ -21,11 +21,23 @@ The application is used in the field of e-commerce, such as obtaining a percenta
 - A personal page for the educational institution that enables it to add and edit their details and manage registration and admission requests.
 
 # Tools & Technologies
+- Analysis
+<img src="https://user-images.githubusercontent.com/85819577/191288712-1000e508-a83e-4153-a5bd-33595bed4c16.jpg" width="200" height="75"/>
+<img src="https://user-images.githubusercontent.com/85819577/191288719-6e9b1c30-1ac7-4c93-b240-d73ebabe08f8.png" width="200" height="50"/>
 
-#Team Members
-Abeer Alnakhli
-Anhar Alluhibi
-Hanan Altarjami
-Lujain Aldera
-Salma Khalid
-Waad Almashari
+- Design
+<img src="https://user-images.githubusercontent.com/85819577/191289314-2e65e890-4fbd-43e7-9279-484530b5c9d0.png" width="200" height="65"/>
+<img src="https://user-images.githubusercontent.com/85819577/191289321-41765aee-be2e-45a8-9bf4-48c1d4e278d1.png" width="65" height="100"/>
+
+- Discussion
+<img src="https://user-images.githubusercontent.com/85819577/191289764-1a29eb33-d5bc-41fd-a35f-a7917ad97226.png" width="55" height="65"/>
+<img src="https://user-images.githubusercontent.com/85819577/191289789-4d0580f6-6cdd-4d6c-bf23-6923579767d5.png" width="80" height="80"/>
+
+
+# Team Members
+- Abeer Alnakhli
+- Anhar Alluhibi
+- Hanan Altarjami
+- Lujain Aldera
+- Salma Khalid
+- Waad Almashari
