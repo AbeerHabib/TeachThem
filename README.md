@@ -26,6 +26,10 @@ The application is used in the field of e-commerce, such as obtaining a percenta
 - A personal page for the student containing the details of the training programs or schools he joined.
 - A personal page for the educational institution that enables it to add and edit their details and manage registration and admission requests.
 
+
+# Demo
+https://www.figma.com/file/iKTfgu41QPLF9cuTwiWGTj/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%85%D9%87%D9%85?node-id=0%3A1
+
 # Tools & Technologies
 
 - Analysis
