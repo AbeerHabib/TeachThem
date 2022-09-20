@@ -12,10 +12,6 @@ The application is used in the field of e-commerce, such as obtaining a percenta
 # Business Model
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/191285296-d17f97fa-74e6-4613-bcaf-82c7998f5c34.png" width="800" height="450"/></p>
 
-# How we built it
-First, we analyzed the idea, draw a flow chart and sketching some of the interfaces, then we chose the colors and started designing the interfaces using Figma.
-The application will be programmed through flutter to be compatible with IOS and Android.
-
 # App Features
 - Gathering educational institutions in one place with ease of searching and comparing between them.
 - Easy registration and payment through the app.
