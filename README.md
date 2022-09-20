@@ -1,13 +1,19 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/191264787-dcaa4d25-6cf2-483e-a2b1-d00d07de3b68.png" width="130" height="150"/></p>
 
 # Problem/Challenge
+<p align="justify">
 The search for the appropriate institution or school is a problem facing many parents and students, especially after the increase in the number of private schools and institutes in Saudi Arabia. Parents have difficulty comparing schools they like, and a lack of information about them online.
+</p>
 
 # App Idea
+<p align="justify">
 The app is the joining of a group of institutes and schools located in Saudi Arabia, such as: language institutes, international schools,  Quran memorization schools, schools and institutes that support people with special needs, etc. The app assists in the search, registration and payment of fees for students and trainees wishing to enroll in private institutes and schools.
+</br>
 For institutions:
 The app contributes to facilitating the registration process and student admission, the possibility of adding all the institution's data, including pictures of the institution, data about registration fees, and etc.
+</br>
 The application is used in the field of e-commerce, such as obtaining a percentage of profits from each student who registered in the application, which is from 5-7% of each registration process.
+</p>
 
 # Business Model
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/191285296-d17f97fa-74e6-4613-bcaf-82c7998f5c34.png" width="800" height="450"/></p>
@@ -21,6 +27,7 @@ The application is used in the field of e-commerce, such as obtaining a percenta
 - A personal page for the educational institution that enables it to add and edit their details and manage registration and admission requests.
 
 # Tools & Technologies
+
 - Analysis
 <img src="https://user-images.githubusercontent.com/85819577/191288712-1000e508-a83e-4153-a5bd-33595bed4c16.jpg" width="200" height="65"/>
 <img src="https://user-images.githubusercontent.com/85819577/191288719-6e9b1c30-1ac7-4c93-b240-d73ebabe08f8.png" width="200" height="50"/>
