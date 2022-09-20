@@ -22,7 +22,7 @@ The application is used in the field of e-commerce, such as obtaining a percenta
 
 # Tools & Technologies
 - Analysis
-<img src="https://user-images.githubusercontent.com/85819577/191288712-1000e508-a83e-4153-a5bd-33595bed4c16.jpg" width="200" height="75"/>
+<img src="https://user-images.githubusercontent.com/85819577/191288712-1000e508-a83e-4153-a5bd-33595bed4c16.jpg" width="200" height="65"/>
 <img src="https://user-images.githubusercontent.com/85819577/191288719-6e9b1c30-1ac7-4c93-b240-d73ebabe08f8.png" width="200" height="50"/>
 
 - Design
