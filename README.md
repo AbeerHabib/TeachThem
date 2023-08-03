@@ -29,7 +29,8 @@ The app operates within the e-commerce domain and generates revenue by earning a
 
 
 # Prototype
-https://www.figma.com/proto/iKTfgu41QPLF9cuTwiWGTj/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%85%D9%87%D9%85?type=design&node-id=836-2328&scaling=scale-down&page-id=0%3A1&starting-point-node-id=836%3A2328&show-proto-sidebar=1
+Click [here]([quora.com/profile/Ashish-Kulkarni-100](https://www.figma.com/proto/iKTfgu41QPLF9cuTwiWGTj/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%85%D9%87%D9%85?type=design&node-id=836-2328&scaling=scale-down&page-id=0%3A1&starting-point-node-id=836%3A2328&show-proto-sidebar=1
+).
 
 # Tools & Technologies
 
